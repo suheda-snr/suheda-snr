@@ -49,31 +49,6 @@ I'm currently pursuing a **Bachelor of Engineering in Information Technologies**
 
 ---
 
-## 🌟 Highlighted Projects  
-
-### [NordFlix Movie App](https://github.com/AWA-Project-Group-1/MovieApp-Group-1)  
-Advanced Web Application Project Course, First Semester of 2024
-
-**Description:**  NordFlix is a full-stack movie and TV show app that allows users to browse movies and TV shows, view ratings, get showtimes, save their favorites, and share movie recommendations with others. The app integrates the TMDb and Finnkino APIs for real-time movie data, TV show details, and cinema showtimes in Finland. 
-
-**Technologies:**  HTML, CSS, JS, React, Express, Node.js, PostgreSQL, Mocha, Azure, Render
-
----
-
-### [Tastopia Recipe Sharing App](https://github.com/MinaSoltani70/WPProject)  
-Web Programming Project, Second Semester of 2023
-
-**Description:** A recipe sharing platform allowing users to share, search, and rate recipes.
-
-**Technologies:** JS, HTML, CSS, Bootstrap, Node.js, Express, PostgreSQL, Scrum  
-
----
-
-### [Duunitori Job Scraper](https://github.com/suheda-snr/duunitori.fi-job-scraper)  
-**Description:** An automated job scraper for Duunitori, using Puppeteer for data extraction and Task Scheduler for automation.  
-**Technologies:** Puppeteer, Node.js, JavaScript  
-
----
 
 ## ✨ Fun Fact  
 

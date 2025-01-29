@@ -22,6 +22,7 @@ I'm currently pursuing a **Bachelor of Engineering in Information Technologies**
   ![Python Badge](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
   ![Matlab Badge](https://img.shields.io/badge/Matlab-000000?style=flat&logo=matlab&logoColor=white)
   ![Java Badge](https://img.shields.io/badge/Java-000000?style=flat&logo=java&logoColor=white)
+  ![Kotlin Badge](https://img.shields.io/badge/Kotlin-000000?style=flat&logo=kotlin&logoColor=white)
 
 - **Frontend:**
   ![React Badge](https://img.shields.io/badge/React-000000?style=flat&logo=react)
@@ -33,7 +34,9 @@ I'm currently pursuing a **Bachelor of Engineering in Information Technologies**
   ![Node.js Badge](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js)
   ![Express Badge](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
 
-- **Databases:** ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql) ![MySQL Badge](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql)
+- **Databases:**
+  ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql) ![MySQL Badge](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql)
+  ![MySQL Badge](https://img.shields.io/badge/MySQL-8.0-000000?style=flat&logo=mysql)
 
 - **Tools:**
   ![Puppeteer Badge](https://img.shields.io/badge/Puppeteer-000000?style=flat&logo=puppeteer)

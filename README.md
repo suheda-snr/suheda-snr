@@ -53,25 +53,25 @@ I'm currently pursuing a **Bachelor of Engineering in Information Technologies**
 
 ### [**NordFlix Movie App**](https://github.com/AWA-Project-Group-1/MovieApp-Group-1)
 A full-stack app for browsing movies and TV shows, allowing users to review both movies and TV shows, save favorites, and share them. The app also features group pages that bring people with similar interests together, allowing them to share and discuss content. It integrates the TMDb and Finnkino APIs for real-time movie data, TV show details, and cinema showtimes in Finland.  
-**Technologies:** Figma, HTML, CSS, JS, React, Express, Node.js, PostgreSQL, Mocha, Azure, Render, Postman  
-**Contribution:** Full-stack developer, integrating frontend and backend, automated testing with Mocha, and deploying on Azure and Render for scalability. Contributed in an agile environment.
+  - **Technologies:** Figma, HTML, CSS, JS, React, Express, Node.js, PostgreSQL, Mocha, Azure, Render, Postman  
+  - **Contribution:** Full-stack developer, integrating frontend and backend, automated testing with Mocha, and deploying on Azure and Render for scalability. Contributed in an agile environment.
 
 ### [**Tastopia Recipe Sharing App**](https://github.com/MinaSoltani70/WPProject)
 A recipe sharing platform allowing users to share, search, and rate recipes.  
-**Technologies:** Figma, HTML, CSS, Bootstrap, JavaScript, Node.js, Express, PostgreSQL, ThunderClient 
-**Contribution:** Full-stack developer, building the frontend with HTML, CSS, and JavaScript for a dynamic user interface. Implemented the backend with Node.js and Express, and used PostgreSQL for data storage and management. Also designed the database structure for efficient data handling and storage. Contributed in an agile environment using Scrum methodology.
+  - **Technologies:** Figma, HTML, CSS, Bootstrap, JavaScript, Node.js, Express, PostgreSQL, ThunderClient 
+  - **Contribution:** Full-stack developer, building the frontend with HTML, CSS, and JavaScript for a dynamic user interface. Implemented the backend with Node.js and Express, and used PostgreSQL for data storage and management. Also designed the database structure for efficient data handling and storage. Contributed in an agile environment using Scrum methodology.
 
 ### [**Random Movie Picker**](https://github.com/suheda-snr/randomMoviePicker)
 A fun app that helps you choose a movie randomly from a list. Built with JavaScript and integrated with an external API for fetching movie data.  
-**Technologies:** JavaScript, HTML, CSS, External APIs, Cloudflare
+  - **Technologies:** JavaScript, HTML, CSS, External APIs, Cloudflare
 
 ### [**NASA APOD (Astronomy Picture of the Day)**](https://github.com/suheda-snr/react_apod)
 Displays NASA's Astronomy Picture of the Day along with additional data. Fetches information from NASA's public API and shows it on a clean UI. Built with React and JavaScript.  
-**Technologies:** React, JavaScript, NASA API, HTML, CSS, Cloudflare, NASA APOD API
+  - **Technologies:** React, JavaScript, NASA API, HTML, CSS, Cloudflare, NASA APOD API
 
 ### [**Duunitori Job Scraper**](https://github.com/suheda-snr/duunitori.fi-job-scraper)
 A web scraping tool that automates the extraction of IT field  job postings from Duunitori for Oulu, Finland, and saves the data to a txt file.  
-**Technologies:** Puppeteer, Node.js, JavaScript
+  - **Technologies:** Puppeteer, Node.js, JavaScript
 
 ---
 

@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Suheda!  
 
-🎓 **IT Student** | 💻 **Aspiring Full-Stack Developer** | 🌱 Eager Learner & Innovator
+🎓 **IT Student** | 💻 **Aspiring Full-Stack Developer** | 🌱 Eager Learner
 
 📍 **Location:** Oulu, FI 
 
@@ -62,7 +62,7 @@ A recipe sharing platform allowing users to share, search, and rate recipes.
   - **Contribution:** Full-stack developer, building the frontend with HTML, CSS, and JavaScript for a dynamic user interface. Implemented the backend with Node.js and Express, and used PostgreSQL for data storage and management. Also designed the database structure for efficient data handling and storage. Contributed in an agile environment using Scrum methodology.
 
 ### [**Random Movie Picker**](https://github.com/suheda-snr/randomMoviePicker)
-A fun app that helps you choose a movie randomly from a list. Built with JavaScript and integrated with an external API for fetching movie data.  
+A dynamic web app that enables users to choose a movie genre and receive a random movie suggestion from that genre. The app pulls data from an external API to display detailed information about the selected movie, including its title, description, and other relevant details.  
   - **Technologies:** JavaScript, HTML, CSS, External APIs, Cloudflare
 
 ### [**NASA APOD (Astronomy Picture of the Day)**](https://github.com/suheda-snr/react_apod)

@@ -37,9 +37,9 @@ I'm currently pursuing a **Bachelor of Engineering in Information Technologies**
   ![Express Badge](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
 
 - **Databases:**
-  ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql) ![MySQL Badge](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql)
-  ![MySQL Badge](https://img.shields.io/badge/MySQL-8.0-000000?style=flat&logo=mysql)
-
+  ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql)
+  ![MySQL Badge](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql)
+  
 - **Tools:**
   ![Puppeteer Badge](https://img.shields.io/badge/Puppeteer-000000?style=flat&logo=puppeteer)
   ![Mocha Badge](https://img.shields.io/badge/Mocha-000000?style=flat&logo=mocha)

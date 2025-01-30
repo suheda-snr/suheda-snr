@@ -73,7 +73,7 @@ A dynamic web app that enables users to choose a movie genre and receive a rando
   - **Technologies:** JavaScript, HTML, CSS, External APIs, Cloudflare
 
 ### [**NASA APOD (Astronomy Picture of the Day)**](https://github.com/suheda-snr/react_apod)
-Displays NASA's Astronomy Picture of the Day along with additional data. Fetches information from NASA's public API and shows it on a clean UI. Built with React and JavaScript.
+Displays NASA's Astronomy Picture of the Day, allowing users to explore stunning images of the universe with detailed information. Integrates NASA's public API to fetch and present data on a clean, user-friendly interface. Includes a calendar feature to browse images from specific dates.
   - **Live Link:** [View Live Version](https://react-apod.pages.dev/)
   - **Technologies:** React, JavaScript, NASA API, HTML, CSS, Cloudflare, NASA APOD API
 

@@ -76,7 +76,7 @@ Displays NASA's Astronomy Picture of the Day along with additional data. Fetches
   - **Technologies:** React, JavaScript, NASA API, HTML, CSS, Cloudflare, NASA APOD API
 
 ### [**Duunitori Job Scraper**](https://github.com/suheda-snr/duunitori.fi-job-scraper)
-A web scraping tool that automates the extraction of IT field  job postings from Duunitori for Oulu, Finland, and saves the data to a txt file. 
+A  web scraping tool that automates the extraction of IT job postings from Duunitori.fi for the Oulu region, capturing listings from the last 24 hours. It saves job data to a text file for easy access and can be customized to filter by different industries and locations. Additionally, it can be automated using various tools to schedule the scraper to run at specific intervals without manual intervention.
   - **Technologies:** Puppeteer, Node.js, JavaScript
 
 ---

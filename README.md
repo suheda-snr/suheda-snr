@@ -67,19 +67,14 @@ A recipe sharing platform allowing users to share, search, and rate recipes.
   - **Technologies:** Figma, HTML, CSS, Bootstrap, JavaScript, Node.js, Express, PostgreSQL, ThunderClient 
   - **Contribution:** Full-stack developer, building the frontend with HTML, CSS, and JavaScript for a dynamic user interface. Implemented the backend with Node.js and Express, and used PostgreSQL for data storage and management. Also designed the database structure for efficient data handling and storage. Contributed in an agile environment using Scrum methodology.
 
+### [**Duunitori Job Scraper**](https://github.com/suheda-snr/duunitori.fi-job-scraper)
+A  web scraping tool that automates the extraction of IT job postings from Duunitori.fi for the Oulu region, capturing listings from the last 24 hours. It saves job data to a text file for easy access and can be customized to filter by different industries and locations. Additionally, it can be automated using various tools to schedule the scraper to run at specific intervals without manual intervention.
+  - **Technologies:** Puppeteer, Node.js, JavaScript
+
 ### [**Random Movie Picker**](https://github.com/suheda-snr/randomMoviePicker)
 A dynamic web app that enables users to choose a movie genre and receive a random movie suggestion from that genre. The app pulls data from an external API to display detailed information about the selected movie, including its title, description, and other relevant details.  
   - **Live Link:** [View Live Version](https://7245a5bc.randommoviepicker.pages.dev/)
   - **Technologies:** JavaScript, HTML, CSS, External APIs, Cloudflare
-
-### [**NASA APOD (Astronomy Picture of the Day)**](https://github.com/suheda-snr/react_apod)
-Displays NASA's Astronomy Picture of the Day, allowing users to explore stunning images of the universe with detailed information. Integrates NASA's public API to fetch and present data on a clean, user-friendly interface. Includes a calendar feature to browse images from specific dates.
-  - **Live Link:** [View Live Version](https://react-apod.pages.dev/)
-  - **Technologies:** React, JavaScript, NASA API, HTML, CSS, Cloudflare, NASA APOD API
-
-### [**Duunitori Job Scraper**](https://github.com/suheda-snr/duunitori.fi-job-scraper)
-A  web scraping tool that automates the extraction of IT job postings from Duunitori.fi for the Oulu region, capturing listings from the last 24 hours. It saves job data to a text file for easy access and can be customized to filter by different industries and locations. Additionally, it can be automated using various tools to schedule the scraper to run at specific intervals without manual intervention.
-  - **Technologies:** Puppeteer, Node.js, JavaScript
 
 ---
 

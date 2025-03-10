@@ -74,7 +74,7 @@ A  web scraping tool that automates the extraction of IT job postings from Duuni
 ### [**Random Movie Picker**](https://github.com/suheda-snr/randomMoviePicker)
 A dynamic web app that enables users to choose a movie genre and receive a random movie suggestion from that genre. The app pulls data from an external API to display detailed information about the selected movie, including its title, description, and other relevant details.  
   - **Live Link:** [View Live Version](https://7245a5bc.randommoviepicker.pages.dev/)
-  - **Technologies:** JavaScript, HTML, CSS, External APIs, Cloudflare
+  - **Technologies:** JavaScript, HTML, CSS, TMDB API, Cloudflare
 
 ---
 

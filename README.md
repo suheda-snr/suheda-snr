@@ -54,15 +54,6 @@ I'm currently pursuing a **Bachelor of Engineering in Information Technologies**
 
 ---
 
-### 🏆 GitHub Profile Trophy  
-[![trophy](https://github-profile-trophy.vercel.app/?username=suheda-snr&theme=onedark&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 📊 GitHub Stats  
-![Suheda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suheda-snr&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
----
 
 ## 💼 **Projects**
 

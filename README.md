@@ -3,6 +3,7 @@
 🎓 **IT Student** | 💻 Full-Stack Developer | 🌱 Continuous Learner
 
 🌐 **Portfolio:** [suhedasener.com](https://suhedasener.com)  
+
 ![Email](https://img.shields.io/badge/Email-sener.suheda%40hotmail.com-blue?style=flat&logo=gmail)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/suheda-sener)
 

@@ -60,7 +60,6 @@ I'm currently pursuing a **Bachelor of Engineering in Information Technologies**
 
 ### 🎬 NordFlix  
 NordFlix is a full-stack movie and TV streaming platform that integrates the TMDb API for global movie data and the Finnkino API for local cinema showtimes in Finland. The platform allows users to browse trending movies and series, search by title, view detailed information (ratings, genres, cast, trailers), and check real-time cinema schedules.
-https://github.com/suheda-snr/nordflix
 
 🔗 **GitHub:** [https://github.com/suheda-snr/nordflix](https://github.com/suheda-snr/nordflix)
 

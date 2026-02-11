@@ -64,11 +64,15 @@ NordFlix is a full-stack movie and TV streaming platform that integrates the TMD
 🔗 **GitHub:** [https://github.com/suheda-snr/nordflix](https://github.com/suheda-snr/nordflix)
 
 
+
+
 ### 🧑‍🚀 Helios SMS  
 ~ Qtathon25 Finalist (Top 10 / ~200 teams).  
 Helios SMS (Spacesuit Monitoring System) is a real-time telemetry monitoring application developed during Qtathon25, where our team placed in the Top 10 out of approximately 200 teams. The system simulates a spacesuit control dashboard that tracks and visualizes critical astronaut data such as oxygen levels, temperature, pressure, and system status. The application was built using Python and Qt (PySide6) for the graphical interface, with MQTT for real-time communication and data streaming. The project highlights real-time data processing, event-driven architecture, and clear data visualization in a mission-critical context.
 
 🔗 **GitHub:** [https://github.com/suheda-snr/helios-sms](https://github.com/suheda-snr/helios_sms)
+
+
 
 
 

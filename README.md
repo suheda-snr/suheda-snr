@@ -11,11 +11,8 @@
 
 ## 👩‍💻 About Me  
 
-I’m a full-stack developer with a strong interest in backend architecture, authentication systems, and scalable application design.  
+I'm currently pursuing a **Bachelor of Engineering in Information Technologies** at Oulu University of Applied Sciences. I've gained a solid foundation in programming, web development, and cloud services. I love solving real-world problems through code, collaborating on innovative projects, and exploring new technologies. Currently working as a **Fullstack Developer Intern**, contributing to web and mobile application development using modern technologies.  
 
-Currently working as a **Fullstack Developer Intern**, contributing to mobile application development using React Native and modern backend technologies.  
-
-I enjoy building systems that solve real-world problems — from API integrations and automation tools to full-scale web and mobile platforms.
 
 ---
 
